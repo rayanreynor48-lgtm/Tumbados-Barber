@@ -1,0 +1,12 @@
+{
+  "version": "1.2.2",
+  "versionCode": 8,
+  "titulo": "¡Nueva versión disponible!",
+  "cambios": [
+    "Buscar actualizaciones ahora comprueba si hay una versión nueva y muestra las novedades",
+    "Botón Descargar que lleva directo al APK desde GitHub",
+    "Si ya tienes la última versión, la app te lo confirma"
+  ],
+  "enlace": "https://github.com/mirondavid435-byte/Tumbados-Barber/releases/download/v1.2.2/Tumbados-Barber.apk",
+  "tamano": ""
+}
