@@ -1,12 +1,12 @@
 {
-  "version": "1.2.2",
-  "versionCode": 8,
+  "version": "1.2.3",
+  "versionCode": 9,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "Buscar actualizaciones ahora comprueba si hay una versión nueva y muestra las novedades",
-    "Botón Descargar que lleva directo al APK desde GitHub",
-    "Si ya tienes la última versión, la app te lo confirma"
+    "Mensajes claros cuando no se puede conectar con el servidor al subir fotos o videos",
+    "La búsqueda de actualizaciones es más fiable (sin datos viejos en caché)",
+    "Mejoras internas de conexión"
   ],
-  "enlace": "https://github.com/rayanreynor48-lgtm/Tumbados-Barber/releases/download/v1.2.2/Tumbados-Barber.apk",
+  "enlace": "https://github.com/mirondavid435-byte/Tumbados-Barber/releases/download/v1.2.3/Tumbados-Barber.apk",
   "tamano": ""
 }
