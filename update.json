@@ -1,12 +1,13 @@
 {
-  "version": "1.2.4",
-  "versionCode": 10,
+  "version": "1.2.6",
+  "versionCode": 12,
   "titulo": "¡Nueva versión disponible!",
   "cambios": [
-    "Las fotos se suben como JPG, como antes, para que la subida sea rápida y estable",
-    "La app despierta el servidor y reintenta sola si la subida no conecta",
-    "La búsqueda de actualizaciones ahora usa el repositorio nuevo"
+    "Productos tiene dos pestañas con icono: Productos y Ropa",
+    "Las pestañas aparecen al desplazarte hacia arriba en la sección de Productos",
+    "Nueva pestaña de Ropa para los artículos que se venden en la tienda",
+    "Mejoras de estabilidad en la sección de Productos"
   ],
-  "enlace": "https://github.com/rayanreynor48-lgtm/Tumbados-Barber/releases/download/v1.2.4/Tumbados-Barber.apk",
+  "enlace": "https://github.com/rayanreynor48-lgtm/Tumbados-Barber/releases/download/v1.2.6/Tumbados-Barber.apk",
   "tamano": ""
 }
